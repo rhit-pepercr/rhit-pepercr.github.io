@@ -16,6 +16,7 @@ body#about img {
     height: 25em;
     display: inline;
     float: left;
+    border: 5px solid var(--heading-color);
     margin-right: var(--horizontal-space);
     margin-bottom: var(--vertical-space);
 }
